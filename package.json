@@ -1,0 +1,25 @@
+{
+  "name": "got",
+  "version": "1.0.0",
+  "description": "got",
+  "main": "got.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "got": "./got.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "commander": "^2.11.0",
+    "ora": "^1.3.0",
+
+  }
+}
+
+
+got is your ultimate game of thrones terminal app, getting know of next episode air date, getting character\'s quote and search for character\'s specifications is what got can do for now
+
+got is your next best game of thrones buddy
